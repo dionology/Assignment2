@@ -20,7 +20,6 @@ This is a basic Android music discovery app built with Kotlin and Jetpack Compos
 
 * Implement search functionality
 * Add more detailed user profiles
-* Integrate with a music streaming service
 * Improve UI/UX
 
 ## Contributing
